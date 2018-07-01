@@ -1,0 +1,36 @@
+{
+  "popSoundUrl": "http://www.orangefreesounds.com/wp-content/uploads/2014/09/Pop-sound-effect.mp3",
+
+  "objects": [
+    {
+      "name": "rubber ducky",
+      "effect": "nothing",
+      "image": "https://i.imgur.com/aZQWQFQ.jpg",
+      "sound": "squeak"
+    },
+    {
+      "name": "beach chair",
+      "effect": "hurt",
+      "image": "https://i.imgur.com/ZgW4BDs.jpg",
+      "sound": "ouch"
+    },
+    {
+      "name": "wool",
+      "effect": "nothing",
+      "image": "https://i.imgur.com/p4EQPkY.jpg",
+      "sound": "sigh"
+    },
+    {
+      "name": "log",
+      "effect": "kill",
+      "image": "https://i.imgur.com/IQ64V5j.jpg",
+      "sound": "squash"
+    },
+    {
+      "name": "anvil",
+      "effect": "kill",
+      "image": "https://i.imgur.com/9ehQ2lh.png",
+      "sound": "squash"
+    }
+  ]
+}
